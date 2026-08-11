@@ -1,6 +1,6 @@
 # Heart Disease Prediction Using Machine Learning
 
-This project predicts the presence of heart disease using patient medical data.
+This tool predicts the presence of heart disease using patient medical data.
 
 ## Models Used
 Logistic Regression  
